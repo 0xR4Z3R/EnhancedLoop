@@ -61,6 +61,52 @@ public static void addOneError(int[] list)
 
 //-----------------------------------------------------------
 Testing passing prameter value in differnt method
+//----------------------------------------------------------
+Output
+//------------------------------------------------------------
+Sum of elements in list: 55
+Original List
+index, value
+------------ 
+0, 1
+1, 2
+2, 3
+3, 4
+4, 5
+5, 6
+6, 7
+7, 8
+8, 9
+9, 10
+--------------
+Calling addOne
+--------------
+index, value
+------------ 
+0, 2
+1, 3
+2, 4
+3, 5
+4, 6
+5, 7
+6, 8
+7, 9
+8, 10
+9, 11
+Calling addoneError
+List after call to addOneError. Note elements of list did not change.
+index, value
+------------ 
+0, 2
+1, 3
+2, 4
+3, 5
+4, 6
+5, 7
+6, 8
+7, 9
+8, 10
+9, 11
 
 
 
